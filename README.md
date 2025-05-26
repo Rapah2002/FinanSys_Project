@@ -1,5 +1,5 @@
 # 💰 **FinanSys** 🚀
-<h3> Bem-vindo(a) ao projeto [Nome do seu Projeto]! Este é um sistema dedicado a capacitar você a ter controle total, clareza e previsibilidade sobre suas finanças pessoais. Em um mundo onde a complexidade econômica e o acesso fácil ao crédito podem nos levar a decisões financeiras impulsivas, nosso objetivo é ser a sua bússola para uma vida financeira mais saudável e tranquila.<h3/>
+<h3> Bem-vindo(a) ao projeto FinanSys! Este é um sistema dedicado a capacitar você a ter controle total, clareza e previsibilidade sobre suas finanças pessoais. Em um mundo onde a complexidade econômica e o acesso fácil ao crédito podem nos levar a decisões financeiras impulsivas, nosso objetivo é ser a sua bússola para uma vida financeira mais saudável e tranquila.<h3/>
 
 # 🤔 Por que este projeto é importante?
 <h3> Ao longo da vida, somos impulsionados por metas acadêmicas e profissionais, mas frequentemente a educação financeira fica em segundo plano. Muitos jovens, ao receberem seus primeiros salários, se veem sem as ferramentas para gerenciar seu dinheiro de forma responsável, levando a um ciclo de gastos desenfreados e endividamento.</h3>
