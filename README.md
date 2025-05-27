@@ -1,5 +1,5 @@
 # 💰 **FinanSys** 🚀
-<h3> Bem-vindo(a) ao projeto FinanSys! Este é um sistema dedicado a capacitar você a ter controle total, clareza e previsibilidade sobre suas finanças pessoais. Em um mundo onde a complexidade econômica e o acesso fácil ao crédito podem nos levar a decisões financeiras impulsivas, nosso objetivo é ser a sua bússola para uma vida financeira mais saudável e tranquila. <h3/>
+<h3> Bem-vindo(a) ao projeto FinanSys! Uma aplicação dedicada a capacitar você a ter controle total, clareza e previsibilidade sobre suas finanças pessoais. Em um mundo onde a complexidade econômica e o acesso fácil ao crédito podem nos levar a decisões financeiras impulsivas, nosso objetivo é ser a sua bússola para uma vida financeira mais saudável e tranquila. <h3/>
 
 # 🤔 Por que este projeto é importante?
 <h3> Ao longo da vida, somos impulsionados por metas acadêmicas e profissionais, mas frequentemente a educação financeira fica em segundo plano. Muitos jovens, ao receberem seus primeiros salários, se veem sem as ferramentas para gerenciar seu dinheiro de forma responsável, levando a um ciclo de gastos desenfreados e endividamento.</h3>
@@ -12,12 +12,12 @@
 <h3> 🤷‍♀️ - Falta de clareza sobre o fluxo de caixa: Não saber para onde o dinheiro está indo, dificultando a identificação de gastos desnecessários.</h3>
 <h3> 🎯 - Dificuldade em atingir metas financeiras: Sem planejamento e acompanhamento, objetivos como comprar um carro ou viajar tornam-se inatingíveis.</h3>
 
-<h3> * Nosso sistema busca mitigar essas dificuldades, oferecendo ferramentas e insights para que você assuma o controle da sua vida financeira.</h3>
+<h3> * Nossa aplicação busca mitigar essas dificuldades, oferecendo ferramentas e insights para que você assuma o controle da sua vida financeira.</h3>
 
-# ✨ Quais são os objetivos do nosso sistema?
-<h3> O principal objetivo é através do sistema, capacitar indivíduos a ter controle, clareza e previsibilidade sobre suas finanças pessoais, promovendo a saúde financeira e a realização de seus objetivos.</h3>
+# ✨ Quais são os objetivos da nossa aplicação?
+<h3> O principal objetivo é através da aplicação, capacitar indivíduos a ter controle, clareza e previsibilidade sobre suas finanças pessoais, promovendo a saúde financeira e a realização de seus objetivos.</h3>
 
-# Para alcançar isso, o sistema irá:
+# Para alcançar isso, a aplicação irá:
 
 <h3> ✅ - Registrar receitas e despesas: Permite que você categorize e insira todas as suas entradas e saídas de dinheiro de forma simples e intuitiva.</h3>
 <h3> 📊 - Visualizar o fluxo de caixa: Apresenta gráficos e relatórios que mostram claramente para onde o dinheiro está indo e de onde está vindo.</h3>
@@ -37,7 +37,7 @@
 <h3> - Gerenciamento de contas: Possibilidade de adicionar diferentes contas bancárias, cartões de crédito e outras fontes de dinheiro.</h3>
 
 # ❤️ Por que ele é interessante?
-<h3> Este sistema atende a uma necessidade fundamental da vida adulta: a capacidade de gerenciar o próprio dinheiro. Ele não é apenas uma ferramenta, mas um aliado na sua educação financeira prática, ajudando a desenvolver hábitos financeiros saudáveis.</h3>
+<h3> Esta aplicação atende a uma necessidade fundamental da vida adulta: a capacidade de gerenciar o próprio dinheiro. Ele não é apenas uma ferramenta, mas um aliado na sua educação financeira prática, ajudando a desenvolver hábitos financeiros saudáveis.</h3>
 
 # É interessante por diversos motivos:
 
@@ -71,18 +71,18 @@
 <h3> - Manipulação de Vetores e Matrizes (listas de dicionários): A representação de cada transação como um dicionário dentro de uma lista foi um aprendizado chave para armazenar e acessar dados financeiros de forma organizada.</h3>
 <h3> - Modularidade e Funções: A divisão do código em funções bem definidas (ex: exibir_menu(), adicionar_receita(), gerar_resumo(), main()) foi um exercício prático de organização e manutenção do código.</h3>
 
-<h3> Os maiores desafios, mesmo em um sistema baseado em console, residem principalmente na validação e consistência dos dados inseridos pelo usuário. Garantir que valores sejam numéricos, datas estejam no formato correto e que as categorias sejam consistentes exige lógica robusta.</h3>
+<h3> Os maiores desafios, mesmo em uma aplicação baseada em console, residem principalmente na validação e consistência dos dados inseridos pelo usuário. Garantir que valores sejam numéricos, datas estejam no formato correto e que as categorias sejam consistentes exige lógica robusta.</h3>
 
 <h3> A manipulação de dados em memória, sem um banco de dados persistente, também apresenta o desafio de como salvar e carregar as informações para que não se percam ao fechar o programa. Além disso, a mesclagem do trabalho em equipe pode apresentar desafios, especialmente ao lidar com a integração de códigos de diferentes colaboradores foi uma complicação que marcou bastante durande a realização do projeto.</h3>
 
-# Diversas melhorias poderiam ser implementadas para aprimorar o sistema:
+# Diversas melhorias poderiam ser implementadas para aprimorar a aplicação:
 
 <h3> - Persistência de dados: Implementar um método para salvar e carregar os dados (ex: em um arquivo CSV, JSON, ou até mesmo um banco de dados SQLite) para que as informações não se percam ao fechar o programa.</h3>
 <h3> - Validação de data: Aprimorar a validação da data para garantir formatos corretos e datas válidas.</h3>
 <h3> - Funcionalidades Avançadas de Orçamento: Permitir a definição de orçamentos mensais para diferentes categorias e o acompanhamento do progresso em relação a esses limites.</h3>
 <h3> - Metas financeiras: Adicionar a capacidade de definir e acompanhar metas de poupança com maior detalhe, como progresso em relação ao valor total e data limite.</h3>
 <h3> - Análises mais robustas: Incluir mais insights, como análise de tendências de gastos ao longo do tempo, projeções e sugestões personalizadas para economia.</h3>
-<h3> - Interface gráfica (GUI): Para tornar o sistema mais amigável e acessível ao público em geral, converter a interface de console para uma interface gráfica (usando PyQt, Tkinter, ou frameworks web como Flask/Django para uma aplicação web).</h3>
+<h3> - Interface gráfica (GUI): Para tornar a aplicação mais amigável e acessível ao público em geral, converter a interface de console para uma interface gráfica (usando PyQt, Tkinter, ou frameworks web como Flask/Django para uma aplicação web).</h3>
 <h3> - Integração com APIs financeiras: Potencialmente, integrar com APIs bancárias (com as devidas permissões e segurança) para importação automática de transações, facilitando o registro.</h3>
 
 ## A ideia central de gerenciamento financeiro pessoal é universalmente relevante e pode ser aplicada em diversos contextos:
